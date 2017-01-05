@@ -1,6 +1,6 @@
 Literally the exact same thing as the original author [Oxguy3](https://github.com/oxguy3) with the addition of Donald Trump's "wrong". See below for details.
 
-__ALL TEXT BELOW THIS WAS ORIGINALLY WRITTEN BY THE ORIGINAL AUTHOR [Oxguy3](https://github.com/oxguy3)__
+# __ALL TEXT BELOW THIS WAS ORIGINALLY WRITTEN BY THE ORIGINAL AUTHOR [Oxguy3](https://github.com/oxguy3)__
 
 # scripts/sounds
 Some stupid sound effects to use for notifications when a script finishes or just for goofing around.
